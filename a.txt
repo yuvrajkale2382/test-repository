@@ -2,3 +2,4 @@ test hello
 
 
 test a.txt
+test conflict
